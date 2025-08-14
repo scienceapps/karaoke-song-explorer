@@ -3,6 +3,8 @@ Ever stared at your mountain of karaoke game discs thinking, “Where on earth i
 
 This web app lets you search through 287 karaoke games across PlayStation, Xbox, Wii, Wii U, and Switch — because your living room deserves a concert, not a scavenger hunt.
 
+![Game discs](https://github.com/scienceapps/karaoke-song-explorer/blob/main/games.jpg?raw=true)
+
 - Got a stack of karaoke games collecting dust?
 - Want to belt out that song but can't remember which disc it's hiding on?
 - This tool helps you track it down faster than you can say “mic drop.”
