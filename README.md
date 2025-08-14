@@ -7,7 +7,7 @@ Karaoke Song Explorer lets you search through 287 karaoke games across PlayStati
 
 - Got a stack of karaoke games collecting dust?
 - Want to belt out that song but can't remember which disc it's hiding on?
-- This tool helps you track it down faster than you can say “mic drop.”
+- This tool helps you track it down !
 
 It supports a wide range of franchises, including:
 
@@ -26,7 +26,7 @@ It supports a wide range of franchises, including:
 - Song Discovery: Explore which songs appear in which games, across multiple platforms and regions.
 - Artist & Title Search: Find songs by artist name or track title to see their karaoke game appearances.
 - Multi-Platform Coverage: Includes games from PlayStation, Xbox, Wii, Wii U, and Nintendo Switch.
-- Offline Access: The app can be run locally, making it accessible even without an internet connection. Download and unzip [this file](https://github.com/scienceapps/karaoke-song-explorer/blob/main/karaoke-song-explorer-offline.zip)  and open index.html.
+- Offline Access: The app can be run locally, making it accessible even without an internet connection. Download and unzip [this file](https://github.com/scienceapps/karaoke-song-explorer/blob/main/karaoke-song-explorer-offline.zip) and open index.html.
 
 # Start the application:
 > https://scienceapps.github.io/karaoke-song-explorer/
