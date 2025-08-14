@@ -1,7 +1,7 @@
 # Karaoke Song Explorer
-Ever stared at your mountain of karaoke game discs thinking, “Where on earth is that one song?” Fear not — Karaoke Song Explorer is here to rescue your vocal dreams!
+Ever stared at your mountain of karaoke game discs thinking, “Where on earth is that one song?” Fear not ! Karaoke Song Explorer is here to rescue your vocal dreams!
 
-This web app lets you search through 287 karaoke games across PlayStation, Xbox, Wii, Wii U, and Switch — because your living room deserves a concert, not a scavenger hunt.
+This web app lets you search through 287 karaoke games across PlayStation, Xbox, Wii, Wii U, and Switch, because your living room deserves a concert, not a scavenger hunt.
 
 ![Game discs](https://github.com/scienceapps/karaoke-song-explorer/blob/main/games.jpg?raw=true)
 
