@@ -9822,9 +9822,9 @@ enyo.kind({
 			
 		]},
 	]},
-	{tag:"br"},	{tag:"br"},	
-	{name:"PochetteDisplay", content:"", allowHtml:true},
-
+	{tag:"br"},	
+	{name:"PochetteDisplay", content:"<center><a href=https://github.com/scienceapps/karaoke-song-explorer/blob/main/README.md>About this project</a> - <a href=https://github.com/scienceapps/karaoke-song-explorer>Github</a>", allowHtml:true},
+	{tag:"br"},	{tag:"br"},	{tag:"br"},	
 	]},
     ],
 // Zone des fonctions -------------------------------------
