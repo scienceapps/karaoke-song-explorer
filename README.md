@@ -24,5 +24,4 @@ It supports a wide range of franchises, including:
 > https://scienceapps.github.io/karaoke-song-explorer/
 
 # Offline version:
-
-- The app can be run locally, making it accessible even without an internet connection. Download and unzip [this file](https://github.com/scienceapps/karaoke-song-explorer/blob/main/karaoke-song-explorer-offline.zip) and open index.html.
+> The app can be run locally, making it accessible even without an internet connection. Download and unzip [this file](https://github.com/scienceapps/karaoke-song-explorer/blob/main/karaoke-song-explorer-offline.zip) and open index.html.
