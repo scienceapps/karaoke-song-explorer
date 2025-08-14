@@ -3,9 +3,9 @@ Ever stared at your mountain of karaoke game discs thinking, “Where on earth i
 
 This web app lets you search through 287 karaoke games across PlayStation, Xbox, Wii, Wii U, and Switch — because your living room deserves a concert, not a scavenger hunt.
 
-🎮 Got a stack of karaoke games collecting dust?
-🎶 Want to belt out that song but can't remember which disc it's hiding on?
-💿 This tool helps you track it down faster than you can say “mic drop.”
+- Got a stack of karaoke games collecting dust?
+- Want to belt out that song but can't remember which disc it's hiding on?
+- This tool helps you track it down faster than you can say “mic drop.”
 
 It supports a wide range of franchises, including:
 
@@ -18,7 +18,7 @@ It supports a wide range of franchises, including:
 - U-Sing
 - The Voice
 
-Key Features:
+# Key Features:
 
 - Game-Based Navigation: Users can browse by game series using intuitive buttons for each karaoke franchise.
 - Song Discovery: Explore which songs appear in which games, across multiple platforms and regions.
