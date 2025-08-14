@@ -24,4 +24,4 @@ It supports a wide range of franchises, including:
 - Song Discovery: Explore which songs appear in which games, across multiple platforms and regions.
 - Artist & Title Search: Find songs by artist name or track title to see their karaoke game appearances.
 - Multi-Platform Coverage: Includes games from PlayStation, Xbox, Wii, Wii U, and Nintendo Switch.
-- Offline Access: The app can be run locally, making it accessible even without an internet connection. Download and unzip this file and open index.html.
+- Offline Access: The app can be run locally, making it accessible even without an internet connection. Download and unzip [this file](https://github.com/scienceapps/karaoke-song-explorer/blob/main/karaoke-song-explorer-offline.zip)  and open index.html.
