@@ -1,5 +1,5 @@
 # Karaoke Song Explorer
-Have you rver stared at your mountain of karaoke game discs thinking, “Where on earth is that one song?” 
+Have you ever stared at your mountain of karaoke game discs thinking, “Where on earth is that one song?” 
 
 ![Game discs](https://github.com/scienceapps/karaoke-song-explorer/blob/main/games.jpg?raw=true)
 
